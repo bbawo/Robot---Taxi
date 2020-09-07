@@ -5,4 +5,4 @@ The goal of my robot is to autonomously nagivate a multi-routed track, recoginze
 
 This was a fun project in which I learned a lot. 
 
-I provide the raw code available here and plan to make a detailed writeup explaining every step very soon.
+Here, I make the raw code available and plan to do a detailed writeup explaining every step very soon.
